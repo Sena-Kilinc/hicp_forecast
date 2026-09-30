@@ -9,8 +9,8 @@ A small personal project comparing simple time-series and machine-learning forec
 - Source: ECB Data Portal, dataset ICP, monthly, euro area (`U2`, changing composition), annual rate of change.
 - Headline HICP: `ICP.M.U2.N.000000.4.ANR`
 - Core HICP (excl. energy, food, alcohol, tobacco): `ICP.M.U2.N.XEF000.4.ANR`
-- Sample retrieved: **1997-01 to 2025-12, n = 348**. Run date: `<fill in>`.
-- Latest data vintage only (no real-time vintages), so this is a *pseudo* out-of-sample exercise.
+- Sample retrieved: **1997-01 to 2025-12, n = 348**. Run date: 2026-09-30.
+- - Latest data vintage only (no real-time vintages), so this is a *pseudo* out-of-sample exercise.
 
 ## Design
 
